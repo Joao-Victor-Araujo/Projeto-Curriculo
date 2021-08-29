@@ -5,7 +5,7 @@
 }
 
 body, html{
-    margin: ;0;
+    margin: 0;
     padding: 0
 }
 
@@ -44,11 +44,11 @@ div[id^="conteudo"]{
 }
 
 #nome{
-    margin: 43px 0px 7px 0px;
+    margin: 43px 0px 3px 0px;
 }
 
 #nome-area{
-    margin-left: 15px;
+    margin-left: 25px;
     color: #19304F;
 }
 
@@ -68,7 +68,6 @@ p[id^="p-"]{
     font-size: 16px;
     color
 }
-
 
 li{
     margin: 0;
@@ -96,7 +95,7 @@ footer{
 } 
 .icones{
     height: 16px;
-    letter-spacing: 5px;
+    letter-spacing: 6px;
 }
 
 #conhecimentos{
@@ -148,6 +147,7 @@ a:hover{
     }
 
     #p-contato{
+        line-height: 2;
         font-size: 80%;
     } 
 
