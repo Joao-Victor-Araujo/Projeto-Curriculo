@@ -62,11 +62,10 @@ h2[id^="h2"]{
     color: #19304F;
 }
 
-p[id^="p-"]{
+    p[id^="p-"]{
     line-height: 22px;
     margin: 0%;
     font-size: 16px;
-    color
 }
 
 li{
@@ -97,7 +96,6 @@ footer{
     height: 16px;
     letter-spacing: 6px;
 }
-
 #conhecimentos{
     margin-top: 100px;
 }
@@ -126,6 +124,11 @@ h2{
 a{
     text-decoration: none;
 }
+
+#email{
+    color: white;
+}
+
 a:hover{
     color: aqua;
 }
